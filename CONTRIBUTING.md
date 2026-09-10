@@ -36,8 +36,8 @@ Never manufacture precision.
 
 Use repository-relative Markdown links for files:
 
-```markdown
-[Isaac Newton](../02-people/isaac-newton.md)
+```text
+Isaac Newton -> 02-people/isaac-newton.md
 ```
 
 Use wiki-style links only in rough notes if the target file does not exist yet.

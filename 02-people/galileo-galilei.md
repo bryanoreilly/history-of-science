@@ -20,7 +20,7 @@ status: developing
 
 ## Overview
 
-Galileo Galilei appears in Episode 13 as the astronomer whose telescopic observations made the new astronomy a public evidential controversy. The episode emphasizes `Sidereus Nuncius`, observations of the Moon and Jupiter's satellites, the `Dialogue`, and the later `Two New Sciences`.
+Galileo Galilei was an Italian mathematician, astronomer, and natural philosopher whose work joined mathematical reasoning, instrument-assisted observation, and experimental investigation. His telescopic observations made Copernican astronomy a public evidential controversy, while his later writings on motion became central to early modern mechanics.
 
 ## Timeline
 
@@ -36,11 +36,15 @@ Galileo Galilei appears in Episode 13 as the astronomer whose telescopic observa
 
 - [Telescopic astronomy](../03-discoveries-and-theories/telescopic-astronomy.md)
 - [Galilean moons](../03-discoveries-and-theories/galilean-moons.md)
+- [Experimentation](../03-discoveries-and-theories/experimentation.md)
 
 ## Connections
 
 - `built-upon` -> [Heliocentrism](../03-discoveries-and-theories/heliocentrism.md)
 - `used` -> [Telescope](../05-technologies/telescope.md)
+- `worked-at` -> [University of Pisa](../08-places-and-maps/institutions/university-of-pisa.md)
+- `worked-at` -> [University of Padua](../08-places-and-maps/institutions/university-of-padua.md)
+- `worked-at` -> [Venetian Arsenal](../08-places-and-maps/institutions/venetian-arsenal.md)
 - `published` -> [Sidereus Nuncius](../09-research-and-sources/primary-sources/sidereus-nuncius.md)
 - `published` -> [Dialogue Concerning the Two Chief World Systems](../09-research-and-sources/primary-sources/dialogue-concerning-the-two-chief-world-systems.md)
 - `published` -> [Two New Sciences](../09-research-and-sources/primary-sources/two-new-sciences.md)
@@ -50,3 +54,4 @@ Galileo Galilei appears in Episode 13 as the astronomer whose telescopic observa
 - PBS NOVA, "Galileo's Battle for the Heavens: His Life." https://www.pbs.org/wgbh/nova/galileo/life.html
 - PBS NOVA, "Galileo: Sun-Centered System." https://www.pbs.org/wgbh/nova/education/space/galileo-sun-centered-system.html
 - Crash Course History of Science #13.
+- Crash Course History of Science #14.

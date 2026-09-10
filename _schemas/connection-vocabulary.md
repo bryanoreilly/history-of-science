@@ -6,6 +6,7 @@ Use typed relationships instead of generic related-to links.
 
 - influenced
 - developed
+- developed-by
 - built-upon
 - built-upon-by
 - challenged
@@ -24,15 +25,20 @@ Use typed relationships instead of generic related-to links.
 - part-of
 - used
 - used-by
+- used-in
 - supported
 - supported-by
 - defended-by
 - challenged-by
 - introduced
+- introduced-by
 - located-on
+- located-in
+- connected-to
 - contemporary-of
 - collaborated-with
 - studied-under
+- studied-at
 - taught
 - worked-at
 - published

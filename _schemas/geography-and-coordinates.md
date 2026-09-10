@@ -9,6 +9,7 @@ Use decimal degrees in YAML front matter:
 ```yaml
 latitude: 55.9078
 longitude: 12.6967
+google_maps: https://www.google.com/maps?q=55.9078,12.6967
 coordinate_source: Wikidata Q509682
 ```
 

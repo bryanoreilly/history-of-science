@@ -5,6 +5,7 @@ name: Pisa
 country: Italy
 latitude: 43.7167
 longitude: 10.4000
+google_maps: https://www.google.com/maps?q=43.7167,10.4000
 coordinate_source: Wikidata Q13375
 status: developing
 ---

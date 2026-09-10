@@ -5,6 +5,7 @@ name: Stjerneborg
 country: Sweden
 latitude: 55.9069
 longitude: 12.6971
+google_maps: https://www.google.com/maps?q=55.9069,12.6971
 coordinate_source: GuidebookSweden Stjerneborg listing
 status: developing
 ---

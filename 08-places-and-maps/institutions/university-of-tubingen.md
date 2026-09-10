@@ -5,6 +5,7 @@ name: University of Tubingen
 country: Germany
 latitude: 48.5250
 longitude: 9.05889
+google_maps: https://www.google.com/maps?q=48.5250,9.05889
 coordinate_source: Wikidata Q153978
 status: developing
 ---

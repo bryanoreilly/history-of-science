@@ -5,6 +5,7 @@ name: Uraniborg
 country: Sweden
 latitude: 55.90786
 longitude: 12.69661
+google_maps: https://www.google.com/maps?q=55.90786,12.69661
 coordinate_source: geographic.org / NGA geographic names data
 status: developing
 ---

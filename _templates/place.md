@@ -5,6 +5,7 @@ name:
 country:
 latitude:
 longitude:
+google_maps:
 coordinate_source:
 status: stub
 ---

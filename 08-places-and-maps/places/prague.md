@@ -5,6 +5,7 @@ name: Prague
 country: Czech Republic
 latitude: 50.1000
 longitude: 14.4333
+google_maps: https://www.google.com/maps?q=50.1000,14.4333
 coordinate_source: Getty Thesaurus of Geographic Names 7006464
 status: developing
 ---

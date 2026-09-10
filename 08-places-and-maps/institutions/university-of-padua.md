@@ -5,6 +5,7 @@ name: University of Padua
 country: Italy
 latitude: 45.4200
 longitude: 11.8700
+google_maps: https://www.google.com/maps?q=45.4200,11.8700
 coordinate_source: Wikidata Q193510
 status: developing
 ---
